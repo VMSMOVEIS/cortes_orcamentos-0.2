@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Plano de Cortes Profissional Versão 3.0",
+  "description": "Ferramenta profissional para extrair, analisar e otimizar peças de mobiliário para corte em MDF a partir de modelos 3D, com geração de manuais de montagem e orçamentos detalhados.",
+  "requestFramePermissions": []
+}
